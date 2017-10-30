@@ -1,0 +1,26 @@
+{
+  "name": "browserify-gulp",
+  "version": "1.0.0",
+  "description": "Tutorial Gulp y Browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidvina/browserify-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidvina/browserify-gulp/issues"
+  },
+  "homepage": "https://github.com/davidvina/browserify-gulp#readme",
+  "devDependencies": {
+    "browserify": "^14.5.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
